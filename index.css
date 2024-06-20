@@ -364,6 +364,11 @@ nav.fas
     {
         font-size: 14px;
     }
+    .image{
+        width:50%;
+        height:150%;
+      text-align: center;
+    }
 }
 #msg
 {
