@@ -250,6 +250,21 @@ nav ul li a:hover::after{
     color:#ff004f;
     transform: translateY(-5px);
 }
+.btn
+{
+    
+        display: inline-block;
+        padding: 1rem 2.8rem;
+        background: var(red);
+        border-radius: 4rem;
+        box-shadow: 0 0 1rem var(rgb(187, 32, 32));
+        font-size: 1.6rem;
+        color: var(white);
+        letter-spacing: .1rem;
+        font-weight: 600;
+        transition: .5s ease;
+
+}
 .btn.btn2
 {
     display: inline-block;
